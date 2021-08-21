@@ -1,0 +1,58 @@
+[
+    {
+      "id":0,
+      "name": "Website Promotion - Landing",
+      "status": "SUCCESS",
+      "createdAt": "17 Jun 2021",
+      "method": "CSV",
+      "media": "Video"
+    },
+    {
+      "id":1,
+      "name": "App Download",
+      "status": "FAILED",
+      "createdAt": "15 Jun 2021",
+      "method": "URL Overide",
+      "media": "Video"
+    },
+    {
+      "id":2,
+      "name": "Social Media Promotion",
+      "status": "SUCCESS",
+      "createdAt": "14 Jun 2021",
+      "method": "CSV",
+      "media": "Video"
+    },
+    {
+      "id":3,
+      "name": "Linkedin Template",
+      "status": "FAILED",
+      "createdAt": "13 Jun 2021",
+      "method": "URL Overide",
+      "media": "Video"
+    },
+    {
+      "id":4,
+      "name": "Quikr Template",
+      "status": "SUCCESS",
+      "createdAt": "18 Jun 2021",
+      "method": "URL Overide",
+      "media": "Video"
+    },
+    {
+      "id":5,
+      "name": "Telegram",
+      "status": "FAILED",
+      "createdAt": "19 Jun 2021",
+      "method": "CSV",
+      "media": "Video"
+    },
+    {
+      "id":6,
+      "name": "Drive Template",
+      "status": "SUCCESS",
+      "createdAt": "20 Jun 2021",
+      "method": "URL Overide",
+      "media": "Video"
+    }
+  ]
